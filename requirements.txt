@@ -3,3 +3,4 @@ torchvision
 torchaudio
 # only for running notebooks
 ipykernel
+wandb
